@@ -7,4 +7,4 @@ public class exercise1_2 {
 
     }
 }
-//sum of three integer 
+// sum of three integer
