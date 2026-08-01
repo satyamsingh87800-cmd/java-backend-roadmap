@@ -5,5 +5,5 @@ public class exercise2_5 {
         System.out.println(a);
     }
     
-   //find the value of a  
+   //find the value of a 
 }
