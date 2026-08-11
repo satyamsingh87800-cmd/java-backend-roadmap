@@ -15,9 +15,9 @@ public class exercise3_1 {
         // System.out.println(name.endsWith("am"));
         // System.out.println(name.charAt(2));
         // System.out.println(name.indexOf('m'));
-           //System.out.println(name.lastIndexOf('t'));
-                      //System.out.println(name.equals("ty"));
-
+        // System.out.println(name.lastIndexOf('t'));
+        // System.out.println(name.equals("ty"));
+        System.out.println(name.startsWith("ty"));
 
     }
 
