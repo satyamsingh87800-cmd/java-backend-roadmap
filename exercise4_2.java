@@ -26,8 +26,8 @@ public class exercise4_2 {
              String name = sc.next();
         */
 /*with th switch statement where u cannot do range thing in this . you have to make variable
-as mention below to make the number in whole number.
-btw dont panic it is a enhance switch */
+as mention below to make the number in whole number.   
+btw dont panic it is a enhance switch*/
        int grade = (int) cgpa / 10;   // <-- new variable, cgpa divided by 10
 
 switch (grade) {
